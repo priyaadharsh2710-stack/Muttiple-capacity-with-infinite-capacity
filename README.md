@@ -61,4 +61,4 @@ print("-----------------------------------------------------")
 ## Output :
 
 ## Result : 
-
+Multiple server with infinite capacity - (M/M/c):(oo/FIFO) studied successfully.
